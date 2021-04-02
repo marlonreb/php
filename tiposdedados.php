@@ -1,0 +1,3 @@
+<?php
+    //tipos de dados
+?>
